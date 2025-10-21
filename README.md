@@ -2,8 +2,6 @@
 
 A sleek, web-based virtual drum kit that allows you to play drum sounds using your keyboard or mouse.
 
-![Screenshot of the Drum Kit project](image_b3a8f9.png)
-*(Note: You should replace `image_b3a8f9.png` with the actual path to the screenshot in your repository for it to display correctly.)*
 
 ## Description
 
